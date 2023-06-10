@@ -1,0 +1,4 @@
+name: DemironDeadThings_1_19_4
+version: '${project.version}'
+main: sdravstvuite.demirondeadthings_1_19_4.DemironDeadThings_1_19_4
+api-version: 1.19
